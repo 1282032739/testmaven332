@@ -1,0 +1,17 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="testmaven:war exploded">
+    <output-path>$PROJECT_DIR$/../testmaven/src/main/webapp</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="testmaven" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="zxing" />
+          <element id="library" level="project" name="lib" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="testmaven/web/Web" />
+    </root>
+  </artifact>
+</component>
