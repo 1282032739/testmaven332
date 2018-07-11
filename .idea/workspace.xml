@@ -7,8 +7,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a5ea3454-1333-4722-b4c8-bd75a53c4850" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/../testmaven/src/ss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testmaven/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../testmaven/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../testmaven/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../testmaven/src/main/webapp/index.jsp" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -21,7 +19,17 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="index.jsp" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../testmaven/src/main/webapp/index.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="14" column="16" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -37,7 +45,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../testmaven" />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$/../testmaven" value="ss" />
+        <entry key="$PROJECT_DIR$/../testmaven" value="dd" />
       </map>
     </option>
   </component>
@@ -96,6 +104,24 @@
             <path>
               <item name="testmaven" type="b2602c69:ProjectViewProjectNode" />
               <item name="testmaven" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="testmaven" type="b2602c69:ProjectViewProjectNode" />
+              <item name="testmaven" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="testmaven" type="b2602c69:ProjectViewProjectNode" />
+              <item name="testmaven" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="testmaven" type="b2602c69:ProjectViewProjectNode" />
+              <item name="testmaven" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -393,7 +419,7 @@
       <workItem from="1531274535214" duration="1163000" />
       <workItem from="1531277279437" duration="1321000" />
       <workItem from="1531278629878" duration="937000" />
-      <workItem from="1531279573141" duration="7288000" />
+      <workItem from="1531279573141" duration="8118000" />
     </task>
     <task id="LOCAL-00001" summary="测试">
       <created>1531284996666</created>
@@ -409,11 +435,39 @@
       <option name="project" value="LOCAL" />
       <updated>1531288930687</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="ssss">
+      <created>1531289954205</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1531289954205</updated>
+    </task>
+    <task id="LOCAL-00004" summary="ssssdsdsdssfd">
+      <created>1531290347130</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1531290347130</updated>
+    </task>
+    <task id="LOCAL-00005" summary="ssssdsdsdssfd">
+      <created>1531290395096</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1531290395096</updated>
+    </task>
+    <task id="LOCAL-00006" summary="ssssdsdsdssfd">
+      <created>1531290487673</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1531290487673</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10709000" />
+    <option name="totallyTimeSpent" value="11539000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -426,9 +480,10 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="11" y="0" width="1346" height="686" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info active="true" anchor="bottom" id="Event Log" order="7" sideWeight="0.5007776" side_tool="true" visible="true" weight="0.32906765" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.503888" side_tool="true" visible="true" weight="0.10420475" />
       <window_info anchor="bottom" id="Application Servers" order="8" weight="0.32906765" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
@@ -439,17 +494,17 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4992224" visible="true" weight="0.32906765" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4984448" weight="0.32906765" />
       <window_info anchor="bottom" id="Messages" order="8" sideWeight="0.4984448" weight="0.1846435" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="bottom" id="Java Enterprise" order="7" weight="0.32906765" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924812" weight="0.37294334" />
-      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.4984448" weight="0.32906765" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.496112" visible="true" weight="0.10420475" />
       <window_info anchor="bottom" id="Spring" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32906765" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49912435" visible="true" weight="0.25816485" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4992224" weight="0.32906765" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49912435" visible="true" weight="0.25816485" />
       <window_info id="Web" order="2" sideWeight="0.50087565" side_tool="true" weight="0.24962406" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="right" id="Theme Preview" order="3" />
@@ -471,7 +526,9 @@
     <MESSAGE value="测试" />
     <MESSAGE value="test" />
     <MESSAGE value="index" />
-    <option name="LAST_COMMIT_MESSAGE" value="index" />
+    <MESSAGE value="ssss" />
+    <MESSAGE value="ssssdsdsdssfd" />
+    <option name="LAST_COMMIT_MESSAGE" value="ssssdsdsdssfd" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/../testmaven/src/main/webapp/index.jsp">
@@ -553,8 +610,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../testmaven/src/main/webapp/index.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="281">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        <state relative-caret-position="216">
+          <caret line="14" column="16" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
         </state>
       </provider>
     </entry>
